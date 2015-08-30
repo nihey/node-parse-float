@@ -1,0 +1,24 @@
+{
+  "name": "parse-float",
+  "version": "0.1.0",
+  "description": "parseFloat for comma sepparated decimal numbers (e.g: 3,14)",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nihey/node-parse-float.git"
+  },
+  "keywords": [
+    "parse",
+    "parse-float",
+    "float"
+  ],
+  "author": "Nihey Takizawa <nihey.takizawa@gmail.com>",
+  "license": "CC0",
+  "bugs": {
+    "url": "https://github.com/nihey/node-parse-float/issues"
+  },
+  "homepage": "https://github.com/nihey/node-parse-float"
+}
