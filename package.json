@@ -1,6 +1,6 @@
 {
   "name": "parse-float",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "parseFloat for comma sepparated decimal numbers (e.g: 3,14)",
   "main": "./lib/index.js",
   "scripts": {
